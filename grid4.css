@@ -1,0 +1,13 @@
+.container{
+    background-color: pink;
+
+    display: grid;
+    grid-template-columns: 200px 200px;
+    row-gap: 50px;
+    column-gap: 100px;
+}
+.item{
+    background-color: purple;
+    height: 300px;
+    width: 200px;
+}
