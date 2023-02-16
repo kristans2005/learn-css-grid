@@ -1,0 +1,24 @@
+.container{
+    background-color: #40fef4;
+
+    display: grid;
+    grid-template-columns: repeat(5, 30px);
+    row-gap: 25px;
+    column-gap: 100px;
+
+}
+
+.item {
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+.item-1{
+    background-color: #00b3ff;
+}
+
+.item-2{
+    background-color: #0051ff;
+}
+
